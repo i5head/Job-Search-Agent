@@ -1,0 +1,10 @@
+profile.txt
+.env
+.env.*
+tavily-key
+*.log
+*.sqlite*
+run.lock
+latest.*
+__pycache__/
+.venv/
